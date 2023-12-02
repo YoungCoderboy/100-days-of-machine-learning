@@ -4,4 +4,4 @@
 - Data analysis is where you extract the pattern
 - Machine learning is now famous because we have data now also hardware is strong
 - Deep learning is inspire from the biology, work every well in case of fuzzy logic
-- in case of deep learning more the more good it will work
+- in case of deep learning more the data more good it will work
